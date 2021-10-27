@@ -1,0 +1,1720 @@
+/*
+*************************************************************
+****##Device = Most of the Smartphones Mobiles (Portrait)****
+****************##Screen = B/w 280px to 319px****************
+*/
+
+@media (min-width: 280px) and (max-width: 319px) {
+  
+    /*Responsive CSS */
+    .main-menu .navbar-brand img {
+      width: 100px;
+    }
+    .fixed-top{
+      background: #fff;
+  }
+    .navbar-light .navbar-nav .nav-link {
+      font-size: 12px;
+      line-height: 22px;
+    }
+    .banner {
+      padding: 80px 0px;
+      margin-top: 10%;
+    }
+    .h3-border {
+      margin-bottom: 10px;
+      margin-right: 40px;
+    }
+    .banner h3 {
+      font-size: 10px;
+      line-height: 20px;
+      padding: 8px 0px;
+      margin-left: 5px;
+    }
+    .banner h1 {
+      font-size: 48px;
+      line-height: 58px;
+      margin-bottom: 10px;
+    }
+    .banner h2{
+      font-size: 36px;
+      line-height: 46px;
+      margin-bottom: 10px;
+    }
+    .header-section {
+      height: 500px;
+    }
+    .burger-section {
+      padding: 0px 0px;
+    }
+    .inner-info-1 {
+      width: 100%;
+      margin-top: 0px;
+  }
+    .card{
+      width: 100%;
+    }
+    .card-info .h3 {
+      font-size: 18px;
+      line-height: 20px;
+      margin-top: 35%;
+    }
+   .card-info .h2{
+    font-size: 28px;
+    line-height: 38px;
+  }
+    .card-info h3 {
+      font-size: 18px;
+      line-height: 20px;
+    }
+   .card-info h2{
+    font-size: 28px;
+    line-height: 38px;
+  }
+  .inner-btn {
+    padding: 30px 0px;
+  }
+  .inner-btn .btn-warning {
+    font-size: 12px;
+    font-weight: 500;
+    padding: 8px 20px;
+    margin: 0px 20px;
+  }
+  .product-info {
+    padding: 40px 0px;
+  }
+  .product-info .title h1 {
+    font-size: 36px;
+    line-height: 36px;
+  }
+  .product-info .title p {
+    font-size: 12px;
+    line-height: 22px;
+  }
+  .inner-info-3{
+    width:  100%;
+  }
+  .card-body {
+    padding: 0px 0px;
+  }
+  .inner-info-3 img{
+    width: 100%;
+    height: auto;
+  }
+  .inner-info-3 .card-body h1 {
+    font-size: 26px;
+    line-height: 36px;
+  }
+  .inner-btn-2 {
+    width: 100%;
+    padding: 25px 0px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  .inner-btn-2 .btn-danger {
+    font-size: 12px;
+    padding: 8px 25px;
+    margin: 0px 25px;
+  }
+  .event-section {
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .event-section .title h3 {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .event-section .title {
+    width: 100%;
+    margin: 0px 0px;
+  }
+  .event-section .title h1 {
+    font-size: 34px;
+    line-height: 46px;
+    font-weight: 600;
+  }
+  .event-section .title p {
+    font-size: 11px;
+    line-height: 21px;
+  }
+  .reservation-section .title h3 {
+    font-size: 24px;
+    line-height: 34px;
+    margin-top: 60px;
+  }
+  .reservation-section .title h2 {
+    font-size: 36px;
+    line-height: 46px; 
+  }
+  .main-form {
+    width: 100%;
+    padding: 20px;
+    margin-left: 0px;
+  }
+  .main-form .form-control {
+    width: 100%;
+    padding: 5px;
+    font-size: 10px;
+  }
+  .main-form .btn-danger {
+    font-size: 12px;
+    font-weight: 600;
+    padding: 8px 63px;
+  }
+  .berger-house-about {
+    width: 100%;
+    padding: 0px 10px 10px 10px;
+    color: #fff;
+  }
+  .berger-house-about .title {
+    width: 100%;
+    padding: 20px 0px 0px 0px;
+    margin-top: 70px;
+    margin-left: 0px;
+  }
+  .berger-house-about .title .img-fluid {
+    max-width: 180px;
+    height: auto;
+  }
+  .berger-house-about .title p {
+    font-size: 12px;
+    line-height: 20px;
+    margin-top: 15px;
+  }
+  .berger-house-about .socail-icon{
+    width: 100%;
+    margin-top: 0px;
+    padding: 0px;
+  }
+  .berger-house-about .socail-icon li{
+    width: 100%;
+    list-style: none;
+    font-size: 9px;
+    line-height: 14px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  .berger-house-about .socail-icon .fa{ 
+    font-size: 12px;
+  }
+  .berger-house-about ul {
+    padding-left: 0rem;
+  }
+  .footer-section p {
+    font-size: 9px;
+    margin-bottom: 10px;
+  }
+  .footer-section .social-icon-2 {
+    text-align: center;
+  }
+  .footer-section .social-icon-2 .fa {
+    font-size: 14px;
+    margin: 0px 8px;
+  }
+}
+  
+  
+  /*
+  *************************************************************
+  ****##Device = Most of the Smartphones Mobiles (Portrait)****
+  ****************##Screen = B/w 320px to 479px****************
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    
+    /*Responsive CSS */
+    .main-menu .navbar-brand img {
+      width: 150px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+      font-size: 12px;
+      line-height: 22px;
+    }
+    .banner {
+      padding: 100px 0px;
+      margin-top: 10%;
+    }
+    .h3-border {
+      margin-bottom: 10px;
+      margin-right: 75px;
+    }
+    .banner h3 {
+      font-size: 10px;
+      line-height: 20px;
+      padding: 8px 0px;
+      margin-left: 5px;
+    }
+    .banner h1 {
+      font-size: 52px;
+      line-height: 62px;
+      margin-bottom: 10px;
+    }
+    .banner h2{
+      font-size: 38px;
+      line-height: 48px;
+      margin-bottom: 10px;
+    }
+    .header-section {
+      height: 500px;
+    }
+    .burger-section {
+      padding: 0px 0px;
+    }
+    .inner-info-1 {
+      width: 100%;
+      margin-top: 0px;
+    }
+    .card{
+      width: 100%;
+    }
+    .card-info {
+      top: 22%;
+      left: 5%;
+    }
+    .card-info .h3 {
+      font-size: 18px;
+      line-height: 20px;
+    }
+   .card-info .h2{
+    font-size: 28px;
+    line-height: 38px;
+   }
+    .card-info h3 {
+      font-size: 18px;
+      line-height: 20px;
+    }
+   .card-info h2{
+    font-size: 28px;
+    line-height: 38px;
+  }
+    .inner-btn {
+      padding: 30px 0px;
+    }
+    .inner-btn .btn-warning {
+      font-size: 12px;
+      font-weight: 500;
+      padding: 8px 20px;
+      margin: 0px 20px;
+    }
+    .product-info {
+      padding: 40px 0px;
+    }
+    .product-info .title h1 {
+      font-size: 36px;
+      line-height: 36px;
+    }
+    .product-info .title p {
+      font-size: 12px;
+      line-height: 22px;
+    }
+    .inner-info-3{
+      width:  100%;
+    }
+    .card-body {
+      padding: 0px 0px;
+    }
+    .inner-info-3 img{
+      width: 100%;
+      height: 250px;
+    }
+    .inner-info-3 .card-body h1 {
+      font-size: 26px;
+      line-height: 36px;
+    }
+    .inner-btn-2 {
+      width: 100%;
+      padding: 25px 0px;
+      text-align: center;
+      margin-bottom: 10px;
+    }
+    .inner-btn-2 .btn-danger {
+      font-size: 12px;
+      padding: 8px 25px;
+      margin: 0px 25px;
+    }
+    .event-section {
+      width: 100%;
+      padding: 20px 0px;
+    }
+    .event-section .title h3 {
+      font-size: 18px;
+      line-height: 28px;
+    }
+    .event-section .title {
+      width: 100%;
+      margin: 0px 0px;
+    }
+    .event-section .title h1 {
+      font-size: 34px;
+      line-height: 46px;
+      font-weight: 600;
+    }
+    .event-section .title p {
+      font-size: 11px;
+      line-height: 21px;
+    }
+    .reservation-section .title h3 {
+      font-size: 24px;
+      line-height: 34px;
+      margin-top: 60px;
+    }
+    .reservation-section .title h2 {
+      font-size: 36px;
+      line-height: 46px; 
+    }
+    .main-form {
+      width: 100%;
+      padding: 20px;
+      margin-left: 0px;
+    }
+    .main-form .form-control {
+      width: 100%;
+      padding: 5px;
+      font-size: 10px;
+    }
+    .main-form .btn-danger {
+      font-size: 12px;
+      font-weight: 600;
+      padding: 8px 83px;
+    }
+    .berger-house-about {
+      width: 100%;
+      padding: 0px 10px 10px 10px;
+      color: #fff;
+    }
+    .berger-house-about .title {
+      width: 100%;
+      padding: 20px 0px 0px 0px;
+      margin-top: 70px;
+      margin-left: 0px;
+    }
+    .berger-house-about .title .img-fluid {
+      max-width: 180px;
+      height: auto;
+    }
+    .berger-house-about .title p {
+      font-size: 12px;
+      line-height: 20px;
+      margin-top: 15px;
+    }
+    .berger-house-about .socail-icon{
+      width: 100%;
+      margin-top: 0px;
+      padding: 0px;
+    }
+    .berger-house-about .socail-icon li{
+      width: 100%;
+      list-style: none;
+      font-size: 9px;
+      line-height: 14px;
+      margin-left: 0px;
+      margin-right: 0px;
+    }
+    .berger-house-about .socail-icon .fa{ 
+      font-size: 12px;
+    }
+    .berger-house-about ul {
+      padding-left: 0rem;
+    }
+    .footer-section p {
+      font-size: 10px;
+      margin-bottom: 8px;
+    }
+    .footer-section .social-icon-2 {
+      text-align: center;
+    }
+    .footer-section .social-icon-2 .fa {
+      font-size: 14px;
+      margin: 0px 8px;
+    }    
+  }
+  
+  /*
+  **************************************************************
+  ****##Device = Low Resolution Tablets, Mobiles (Landscape)****
+  ****************##Screen = B/w 481px to 767px*****************
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px){
+    
+    /*Responsive CSS */
+    .main-menu .navbar-brand img {
+      width: 250px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+      font-size: 16px;
+      line-height: 26px;
+    }
+    .banner {
+      padding: 100px 0px;
+      margin-top: 10%;
+    }
+    .h3-border {
+      margin-bottom: 10px;
+      margin-right: 125px;
+    }
+    .banner h3 {
+      font-size: 10px;
+      line-height: 20px;
+      padding: 8px 0px;
+      margin-left: 15px;
+    }
+    .banner h1 {
+      font-size: 78px;
+      line-height: 88px;
+      margin-bottom: 10px;
+    }
+    .banner h2{
+      font-size: 38px;
+      line-height: 48px;
+      margin-bottom: 10px;
+    }
+    .header-section {
+      height: 500px;
+    }
+    .burger-section {
+      padding: 0px 0px;
+    }
+    .inner-info-1 {
+      width: 100%;
+      margin-top: 0px;
+    }
+    .card{
+      width: 100%;
+    }
+    .card-info {
+      width: 100%;
+      position: absolute;
+      top: 10%;
+      left: 5%;
+      text-align: left;
+    }
+    .card-info .h3 {
+      font-size: 22px;
+      line-height: 32px;
+    }
+   .card-info .h2{
+    font-size: 36px;
+    line-height: 46px;
+   }
+    .card-info h3 {
+      font-size: 18px;
+      line-height: 20px;
+    }
+    .card-info h2{
+      font-size: 28px;
+      line-height: 38px;
+    }
+    .inner-btn {
+      padding: 30px 0px;
+    }
+    .inner-btn .btn-warning {
+      font-size: 12px;
+      font-weight: 500;
+      padding: 8px 20px;
+      margin: 0px 20px;
+    }
+    .product-info {
+      padding: 0px 0px 40px;
+    }
+    .product-info .title h1 {
+      font-size: 46px;
+      line-height: 56px;
+    }
+    .product-info .title p {
+      font-size: 14px;
+      line-height: 34px;
+    }
+    .inner-info-3{
+      width:  100%;
+    }
+    .inner-info-3 img {
+      width: 100%;
+      height: 200px;
+    }
+    .card-body {
+      padding: 0px 0px;
+    }
+    .inner-info-3 .card-body h1 {
+      font-size: 26px;
+      line-height: 36px;
+    }
+    .inner-btn-2 {
+      width: 100%;
+      padding: 25px 0px;
+      text-align: center;
+      margin-bottom: 10px;
+    }
+    .inner-btn-2 .btn-danger {
+      font-size: 12px;
+      padding: 8px 25px;
+      margin: 0px 25px;
+    }
+    .event-section {
+      width: 100%;
+      padding: 60px 0px;
+    }
+    .event-section .title h3 {
+      font-size: 26px;
+      line-height: 36px;
+    }
+    .event-section .title {
+      width: 100%;
+      margin: 0px 0px;
+    }
+    .event-section .title h1 {
+      font-size: 46px;
+      line-height: 56px;
+    }
+    .event-section .title p {
+      font-size: 14px;
+      line-height: 24px;
+    }
+    .reservation-section .title h3 {
+      font-size: 26px;
+      line-height: 36px;
+      margin-top: 60px;
+    }
+    .reservation-section .title h2 {
+      font-size: 46px;
+      line-height: 56px; 
+    }
+    .main-form {
+      width: 100%;
+      padding: 60px;
+      margin-left: 0px;
+    }
+    .main-form .form-control {
+      width: 100%;
+      padding: 8px;
+      font-size: 10px;
+    }
+    .main-form .btn-danger {
+      font-size: 10px;
+      font-weight: 600;
+      padding: 8px 130px;
+    }
+    .berger-house-about {
+      width: 100%;
+      padding: 0px 10px 10px 10px;
+      color: #fff;
+    }
+    .berger-house-about .title {
+      width: 100%;
+      padding: 20px 0px 0px 0px;
+      margin-top: 70px;
+      margin-left: 0px;
+    }
+    .berger-house-about .title .img-fluid {
+      max-width: 280px;
+      height: auto;
+    }
+    .berger-house-about .title p {
+      font-size: 12px;
+      line-height: 20px;
+      margin-top: 15px;
+    }
+    .berger-house-about .socail-icon{
+      width: 100%;
+      margin-top: 0px;
+      padding: 0px;
+    }
+    .berger-house-about .socail-icon li{
+      width: 100%;
+      list-style: none;
+      font-size: 9px;
+      line-height: 14px;
+      margin-left: 0px;
+      margin-right: 0px;
+    }
+    .berger-house-about .socail-icon .fa{ 
+      font-size: 12px;
+    }
+    .berger-house-about ul {
+      padding-left: 0rem;
+    }
+    .footer-section p {
+      font-size: 12px;
+      margin-bottom: 10px;
+    }
+    .footer-section .social-icon-2 {
+      text-align: center;
+    }
+    .footer-section .social-icon-2 .fa {
+      font-size: 14px;
+      margin: 0px 8px;
+    }
+    
+  }
+  
+  /*
+  **************************************************************
+  ****************##Device = Tablets, Ipads (portrait)**********
+  ****************##Screen = B/w 768px to 1024px****************
+  */
+  
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+    /*Responsive CSS */
+    .header-section {
+      height: 700px;
+    }
+    .main-menu .navbar-brand img {
+      width: 200px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+      font-size: 16px;
+      line-height: 26px;
+    }
+    .banner {
+      padding: 100px 0px;
+      margin-top: 10%;
+    }
+    .h3-border {
+      margin-bottom: 16px;
+      margin-right: 52%;
+    }
+    .banner h3 {
+      font-size: 16px;
+      line-height: 26px;
+      padding: 8px 0px;
+      margin-left: 15px;
+    }
+    .banner h1 {
+      font-size: 88px;
+      line-height: 98px;
+      margin-bottom: 10px;
+    }
+    .banner h2{
+      font-size: 68px;
+      line-height: 78px;
+      margin-bottom: 10px;
+    }
+    .burger-section {
+      padding: 0px 0px;
+    }
+    .inner-info-1 {
+      width: 100%;
+      margin-top: 0px;
+    }
+    .card{
+      width: 100%;
+    }
+    .card-info {
+      width: 100%;
+      position: absolute;
+      top: 10%;
+      left: 5%;
+      text-align: left;
+    }
+    .card-info .h3 {
+      font-size: 22px;
+      line-height: 32px;
+    }
+   .card-info .h2{
+    font-size: 36px;
+    line-height: 46px;
+   }
+    .card-info h3 {
+      font-size: 18px;
+      line-height: 20px;
+    }
+    .card-info h2{
+      font-size: 28px;
+      line-height: 38px;
+    }
+    .inner-btn {
+      padding: 30px 0px;
+    }
+    .inner-btn .btn-warning {
+      font-size: 12px;
+      font-weight: 500;
+      padding: 8px 20px;
+      margin: 0px 20px;
+    }
+    .product-info {
+      padding: 0px 0px 40px;
+    }
+    .product-info .title h1 {
+      font-size: 46px;
+      line-height: 56px;
+    }
+    .product-info .title p {
+      font-size: 14px;
+      line-height: 34px;
+    }
+    .inner-info-3{
+      width:  100%;
+    }
+    .inner-info-3 img {
+      width: 100%;
+      height: 200px;
+    }
+    .card-body {
+      padding: 0px 0px;
+    }
+    .inner-info-3 .card-body h1 {
+      font-size: 26px;
+      line-height: 36px;
+    }
+    .inner-btn-2 {
+      width: 100%;
+      padding: 25px 0px;
+      text-align: center;
+      margin-bottom: 50px;
+    }
+    .inner-btn-2 .btn-danger {
+      font-size: 12px;
+      padding: 8px 25px;
+      margin: 0px 25px;
+    }
+    .event-section {
+      width: 100%;
+      padding: 60px 0px;
+    }
+    .event-section .title h3 {
+      font-size: 26px;
+      line-height: 36px;
+    }
+    .event-section .title {
+      width: 100%;
+      margin: 0px 0px;
+    }
+    .event-section .title h1 {
+      font-size: 46px;
+      line-height: 56px;
+    }
+    .event-section .title p {
+      font-size: 14px;
+      line-height: 24px;
+    }
+    .owl-theme .owl-nav.disabled + .owl-dots {
+      margin-top: 20px;
+      text-align: left;
+    }
+    .reservation-section .title h3 {
+      font-size: 26px;
+      line-height: 36px;
+      margin-top: 60px;
+    }
+    .reservation-section .title h2 {
+      font-size: 46px;
+      line-height: 56px; 
+    }
+    .main-form {
+      width: 100%;
+      padding: 60px;
+      margin-left: 0px;
+    }
+    .main-form .form-control {
+      width: 100%;
+      padding: 8px;
+    }
+    .main-form .btn-danger {
+      font-size: 10px;
+      font-weight: 600;
+      padding: 10px 100px;
+    }
+    .berger-house-about {
+      width: 100%;
+      padding: 0px 10px 10px 10px;
+      color: #fff;
+    }
+    .berger-house-about .title {
+      width: 100%;
+      padding: 20px 0px 0px 0px;
+      margin-top: 70px;
+      margin-left: 0px;
+    }
+    .berger-house-about .title .img-fluid {
+      max-width: 280px;
+      height: auto;
+    }
+    .berger-house-about .title p {
+      font-size: 14px;
+      line-height: 20px;
+      margin-top: 15px;
+      margin-bottom: 50px;
+    }
+    .berger-house-about .socail-icon{
+      width: 100%;
+      margin-top: 50%;
+      padding: 0px;
+    }
+    .berger-house-about .socail-icon li{
+      width: 100%;
+      list-style: none;
+      font-size: 14px;
+      line-height: 24px;
+      margin-left: 0px;
+      margin-right: 0px;
+    }
+    .berger-house-about .socail-icon .fa{ 
+      font-size: 18px;
+    }
+    .berger-house-about ul {
+      padding-left: 0rem;
+    }
+    .footer-section p {
+      font-size: 12px;
+      margin-bottom: 10px;
+    }
+    .footer-section .social-icon-2 {
+      text-align: right;
+    }
+    .footer-section .social-icon-2 .fa {
+      font-size: 14px;
+      margin: 0px 8px;
+    }
+    
+  }
+  
+  /*
+  **************************************************************
+  ****************##Device = Tablets, Ipads (landscape)*********
+  ****************##Screen = B/w 768px to 1024px****************
+  */
+  
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+    /*Responsive CSS */
+    .header-section {
+      height: 700px;
+    }
+    .main-menu .navbar-brand img {
+      width: 200px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+      font-size: 16px;
+      line-height: 26px;
+    }
+    .banner {
+      padding: 100px 0px;
+      margin-top: 10%;
+    }
+    .h3-border {
+      margin-bottom: 16px;
+      margin-right: 52%;
+    }
+    .banner h3 {
+      font-size: 16px;
+      line-height: 26px;
+      padding: 8px 0px;
+      margin-left: 15px;
+    }
+    .banner h1 {
+      font-size: 88px;
+      line-height: 98px;
+      margin-bottom: 10px;
+    }
+    .banner h2{
+      font-size: 68px;
+      line-height: 78px;
+      margin-bottom: 10px;
+    }
+    .burger-section {
+      padding: 0px 0px;
+    }
+    .inner-info-1 {
+      width: 100%;
+      margin-top: 0px;
+    }
+    .card{
+      width: 100%;
+    }
+    .card-info {
+      width: 100%;
+      position: absolute;
+      top: 10%;
+      left: 5%;
+      text-align: left;
+    }
+    .card-info .h3 {
+      font-size: 22px;
+      line-height: 32px;
+    }
+   .card-info .h2{
+    font-size: 36px;
+    line-height: 46px;
+   }
+    .card-info h3 {
+      font-size: 18px;
+      line-height: 20px;
+    }
+    .card-info h2{
+      font-size: 28px;
+      line-height: 38px;
+    }
+    .inner-btn {
+      padding: 30px 0px;
+    }
+    .inner-btn .btn-warning {
+      font-size: 12px;
+      font-weight: 500;
+      padding: 8px 20px;
+      margin: 0px 20px;
+    }
+    .product-info {
+      padding: 0px 0px 40px;
+    }
+    .product-info .title h1 {
+      font-size: 46px;
+      line-height: 56px;
+    }
+    .product-info .title p {
+      font-size: 14px;
+      line-height: 34px;
+    }
+    .inner-info-3{
+      width:  100%;
+    }
+    .inner-info-3 img {
+      width: 100%;
+      height: 200px;
+    }
+    .card-body {
+      padding: 0px 0px;
+    }
+    .inner-info-3 .card-body h1 {
+      font-size: 26px;
+      line-height: 36px;
+    }
+    .inner-btn-2 {
+      width: 100%;
+      padding: 25px 0px;
+      text-align: center;
+      margin-bottom: 50px;
+    }
+    .inner-btn-2 .btn-danger {
+      font-size: 12px;
+      padding: 8px 25px;
+      margin: 0px 25px;
+    }
+    .event-section {
+      width: 100%;
+      padding: 60px 0px;
+    }
+    .event-section .title h3 {
+      font-size: 26px;
+      line-height: 36px;
+    }
+    .event-section .title {
+      width: 100%;
+      margin: 0px 0px;
+    }
+    .event-section .title h1 {
+      font-size: 46px;
+      line-height: 56px;
+    }
+    .event-section .title p {
+      font-size: 14px;
+      line-height: 24px;
+    }
+    .owl-theme .owl-nav.disabled + .owl-dots {
+      margin-top: 20px;
+      text-align: left;
+    }
+    .reservation-section .title h3 {
+      font-size: 26px;
+      line-height: 36px;
+      margin-top: 60px;
+    }
+    .reservation-section .title h2 {
+      font-size: 46px;
+      line-height: 56px; 
+    }
+    .main-form {
+      width: 100%;
+      padding: 60px;
+      margin-left: 0px;
+    }
+    .main-form .form-control {
+      width: 100%;
+      padding: 8px;
+    }
+    .main-form .btn-danger {
+      font-size: 10px;
+      font-weight: 600;
+      padding: 10px 100px;
+    }
+    .berger-house-about {
+      width: 100%;
+      padding: 0px 10px 10px 10px;
+      color: #fff;
+    }
+    .berger-house-about .title {
+      width: 100%;
+      padding: 20px 0px 0px 0px;
+      margin-top: 50px;
+      margin-left: 0px;
+    }
+    .berger-house-about .title .img-fluid {
+      max-width: 280px;
+      height: auto;
+    }
+    .berger-house-about .title p {
+      font-size: 14px;
+      line-height: 20px;
+      margin-top: 15px;
+      margin-bottom: 50px;
+    }
+    .berger-house-about .socail-icon{
+      width: 100%;
+      margin-top: 50%;
+      padding: 0px;
+    }
+    .berger-house-about .socail-icon li{
+      width: 100%;
+      list-style: none;
+      font-size: 14px;
+      line-height: 24px;
+      margin-left: 0px;
+      margin-right: 0px;
+    }
+    .berger-house-about .socail-icon .fa{ 
+      font-size: 18px;
+    }
+    .berger-house-about ul {
+      padding-left: 0rem;
+    }
+    .footer-section p {
+      font-size: 12px;
+      margin-bottom: 10px;
+    }
+    .footer-section .social-icon-2 {
+      text-align: right;
+    }
+    .footer-section .social-icon-2 .fa {
+      font-size: 14px;
+      margin: 0px 8px;
+    }
+    
+  }
+  
+  /*
+  ***************************************************************
+  ****************##Device = Laptops, Desktops*******************
+  ****************##Screen = B/w 1025px to 1280px****************
+  */
+  
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    
+    /*Responsive CSS */
+    .header-section {
+      height: 700px;
+    }
+    .main-menu .navbar-brand img {
+      width: 250px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+      font-size: 16px;
+      line-height: 26px;
+    }
+    .banner {
+      padding: 100px 0px;
+      margin-top: 10%;
+    }
+    .h3-border {
+      margin-bottom: 16px;
+      margin-right: 52%;
+    }
+    .banner h3 {
+      font-size: 16px;
+      line-height: 26px;
+      padding: 8px 0px;
+      margin-left: 15px;
+    }
+    .banner h1 {
+      font-size: 88px;
+      line-height: 98px;
+      margin-bottom: 10px;
+    }
+    .banner h2{
+      font-size: 68px;
+      line-height: 78px;
+      margin-bottom: 10px;
+    }
+    .burger-section {
+      padding: 0px 0px;
+    }
+    .inner-info-1 {
+      width: 100%;
+      margin-top: 0px;
+    }
+    .card{
+      width: 100%;
+    }
+    .card-info {
+      width: 100%;
+      position: absolute;
+      top: 10%;
+      left: 5%;
+      text-align: left;
+    }
+    .card-info .h3 {
+      font-size: 22px;
+      line-height: 32px;
+    }
+   .card-info .h2{
+    font-size: 36px;
+    line-height: 46px;
+   }
+    .card-info h3 {
+      font-size: 18px;
+      line-height: 20px;
+    }
+    .card-info h2{
+      font-size: 28px;
+      line-height: 38px;
+    }
+    .inner-btn {
+      padding: 30px 0px;
+    }
+    .inner-btn .btn-warning {
+      font-size: 12px;
+      font-weight: 500;
+      padding: 8px 20px;
+      margin: 0px 20px;
+    }
+    .product-info {
+      padding: 60px 0px;
+    }
+    .product-info .title h1 {
+      font-size: 46px;
+      line-height: 56px;
+    }
+    .product-info .title p {
+      font-size: 14px;
+      line-height: 34px;
+    }
+    .inner-info-3{
+      width:  100%;
+    }
+    .inner-info-3 img {
+      width: 100%;
+      height: auto;
+    }
+    .card-body {
+      padding: 0px 0px;
+    }
+    .inner-info-3 .card-body h1 {
+      font-size: 26px;
+      line-height: 36px;
+    }
+    .inner-btn-2 {
+      width: 100%;
+      padding: 25px 0px;
+      text-align: center;
+      margin-bottom: 50px;
+    }
+    .inner-btn-2 .btn-danger {
+      font-size: 12px;
+      padding: 8px 25px;
+      margin: 0px 25px;
+    }
+    .event-section {
+      width: 100%;
+      padding: 60px 0px;
+    }
+    .event-section .title h3 {
+      font-size: 26px;
+      line-height: 36px;
+    }
+    .event-section .title {
+      width: 100%;
+      margin: 0px 0px;
+    }
+    .event-section .title h1 {
+      font-size: 46px;
+      line-height: 56px;
+    }
+    .event-section .title p {
+      font-size: 14px;
+      line-height: 24px;
+    }
+    .owl-theme .owl-nav.disabled + .owl-dots {
+      margin-top: 20px;
+      text-align: left;
+    }
+    .reservation-section .title h3 {
+      font-size: 26px;
+      line-height: 36px;
+      margin-top: 60px;
+    }
+    .reservation-section .title h2 {
+      font-size: 46px;
+      line-height: 56px; 
+    }
+    .main-form {
+      width: 100%;
+      padding: 60px;
+      margin-left: 0px;
+    }
+    .main-form .form-control {
+      width: 100%;
+      padding: 8px;
+    }
+    .main-form .btn-danger {
+      font-size: 10px;
+      font-weight: 600;
+      padding: 10px 100px;
+    }
+    .berger-house-about {
+      width: 100%;
+      padding: 0px 10px 10px 10px;
+      color: #fff;
+    }
+    .berger-house-about .title {
+      width: 100%;
+      padding: 20px 0px 0px 0px;
+      margin-top: 50px;
+      margin-left: 0px;
+    }
+    .berger-house-about .title .img-fluid {
+      max-width: 280px;
+      height: auto;
+    }
+    .berger-house-about .title p {
+      font-size: 14px;
+      line-height: 20px;
+      margin-top: 15px;
+      margin-bottom: 50px;
+    }
+    .berger-house-about .socail-icon{
+      width: 100%;
+      margin-top: 50%;
+      padding: 0px;
+    }
+    .berger-house-about .socail-icon li{
+      width: 100%;
+      list-style: none;
+      font-size: 14px;
+      line-height: 24px;
+      margin-left: 0px;
+      margin-right: 0px;
+    }
+    .berger-house-about .socail-icon .fa{ 
+      font-size: 18px;
+    }
+    .berger-house-about ul {
+      padding-left: 0rem;
+    }
+    .footer-section p {
+      font-size: 12px;
+      margin-bottom: 10px;
+    }
+    .footer-section .social-icon-2 {
+      text-align: right;
+    }
+    .footer-section .social-icon-2 .fa {
+      font-size: 14px;
+      margin: 0px 8px;
+    }
+    
+  }
+  
+  
+  /*
+  **************************************************************
+  ********************##Device = Desktops***********************
+  ********##Screen = 1281px to higher resolution desktops*******
+  */
+  
+  @media (min-width: 1281px) and (max-width: 2480px) {
+    
+    /*Responsive CSS */
+    .header-section{
+      background: url("../images/Burger-House-bg.png");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center top;
+      width: 100%;  
+      height: 700px;
+  }
+  .main-menu{
+      width: 100%;
+  }
+  .main-menu .navbar-brand img{
+      width: 100%;
+  }
+  .main-menu .navbar .bg-light{
+      background: transparent ;
+  }
+  .main-menu .navbar .navbar-toggler .fa{
+      color: #3d2514;
+      border-color: #3d2514;
+  }
+  .navbar-light .navbar-nav .nav-link {
+      color: #3d2514;
+      font-size: 16px;
+      font-weight: 500;
+      line-height: 26px;
+      text-transform: uppercase;
+      font-family: 'Bebas Neue', cursive;
+      font-family: 'Montserrat', sans-serif;
+      transition: 2s;
+  }
+  .navbar-light .navbar-nav .nav-link:hover{
+      color: #bf2222;
+  }
+  .banner{
+      width: 100%;
+      padding: 100px 0px;
+      margin-top: 15%;
+      margin-left: 30px;
+  }
+  .h3-border{
+      border: 3px dashed #3d2514;
+      margin-right: 290px;
+      margin-bottom: 30px;
+  }
+  .banner h3{
+      font-size: 16px;
+      line-height: 26px;
+      color: #3d2514;  
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      padding: 8px 0px;
+      margin-left: 25px;
+      font-family: 'Bebas Neue', cursive;
+  }
+  .banner h1{
+      font-size: 98px;
+      font-weight: 700;
+      line-height: 58px;
+      color: #3d2514; 
+      text-transform: uppercase;
+      padding: 5px 0px;
+      margin-bottom: 30px;
+      font-family: 'Alfa Slab One', cursive;
+  }
+  .banner h2{
+      font-size: 56px;
+      line-height: 46px;
+      color: #3d2514;  
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      font-family: 'Alfa Slab One', cursive;
+  }
+  .burger-section{
+      width: 100%;
+      padding: 60px 0px;
+  }
+  .burger-section .card-body {
+      flex: 1 1 auto;
+      padding: 1.25rem;
+      position: absolute;
+      text-align: center;
+      width: 100%;
+      height: 100%;
+  }
+  .inner{
+      width:  100%;
+      margin-bottom: 15px;
+  }
+  .burger-section .inner-info{
+      width:  100%;
+      margin-bottom: 15px;
+  }
+  .inner-info-1{
+      width:  100%;
+      margin-top: 22px;
+  }
+  .burger-section .card{
+      width: 100%;
+    }
+  .card-info{
+      width: 100%;
+      position: absolute;
+      top: 10%;
+      left: 5%;
+      text-align: left;
+  }
+  .card-info h3{
+      font-size: 22px;
+      line-height: 32px;
+      font-weight: 600;
+      color: #fff;
+      text-transform: uppercase;
+      font-family: 'Bebas Neue', cursive;
+  }
+  .card-info h2{
+      font-size: 36px;
+      line-height: 46px;
+      font-weight: 600;
+      color: #fff;
+      text-transform: uppercase;
+      font-family: 'Bebas Neue', cursive;
+  }
+  .inner-btn{
+      width: 100%;
+      padding: 40px 0px 0px 0px;
+      text-align: center;
+   }
+   .inner-btn .btn-warning{
+      color: #3d2514;
+      background: #ffc045;
+      background-color: #ffc045;
+      font-size: 16px;
+      font-weight: 500;
+      padding: 10px 25px;
+      text-transform: uppercase;
+      transition: 1s;
+      margin: 0px 25px;
+  }
+  .inner-btn .btn-warning:hover{
+      color: #ffc045;
+      background: #3d2514;
+      border-color: #3d2514;
+  }
+  .card{
+      border: 0px solid rgba(0,0,0,.125);
+  }
+  .product-info{
+      width: 100%;
+      padding: 80px 0px;
+      text-align: center;
+  }
+  .product-info .title{
+      width: 100%;
+  }
+  .inner-info-3{
+      width:  100%;
+  }
+  
+  .inner-info-3 img{
+      width: 100%;
+      height: 320px;
+  }
+  .product-info .title h1{
+      font-size: 46px;
+      line-height: 56px;
+      font-weight: 700;
+      color: #3d2514;
+      text-transform: uppercase;
+      font-family: 'Bebas Neue', cursive;
+  }
+  .product-info .title p{
+      font-size: 14px;
+      line-height: 24px;
+      font-weight: 200;
+      color: #3d2514;
+      text-transform: capitalize;
+      font-family: 'Montserrat', sans-serif;
+  }
+  .inner-info-3 .card-body h1{
+      font-size: 36px;
+      line-height: 46px;
+      font-weight: 600;
+      color: #3d2514;
+      text-transform: uppercase;
+      font-family: 'Bebas Neue', cursive;
+  }
+  .inner-btn-2{
+      width: 100%;
+      padding: 0px 0px 0px 0px;
+      text-align: center;
+      margin-bottom: 40px;
+   }
+  .inner-btn-2 .btn-danger{
+      color: #fff;
+      background:#bf2222;
+      font-size: 16px;
+      font-weight: 600;
+      padding: 10px 25px;
+      text-transform: uppercase;
+      transition: 1s;
+      margin: 0px 25px;
+      transition: 1s;
+  }
+  .inner-btn-2 .btn-danger:hover{
+      color: #3d2514;
+      background: #ffc045;
+  }
+  .event-section{
+      width: 100%;
+      padding: 80px 0px;
+  }
+  .event-section .title{
+      width: 100%;
+      margin-left: 25%;
+  }
+  .event-section .title h3{
+      font-size: 26px;
+      line-height: 36px;
+      color: #3d2514;
+      text-transform: uppercase;
+      font-family: 'Bebas Neue', cursive;
+  }
+  .event-section .title h1{
+      font-size: 46px;
+      line-height: 56px;
+      font-weight: 700;
+      color: #3d2514;
+      text-transform: uppercase;
+      font-family: 'Bebas Neue', cursive;
+  }
+  .event-section .title p{
+      font-size: 14px;
+      line-height: 24px;
+      color: #3d2514;
+      text-transform: capitalize;
+      font-family: 'Montserrat', sans-serif;
+  }
+  .owl-carousel .event-img .img-fluid {
+      max-width: 350px;
+      height: auto;
+  }
+  .event-section .inner-event{
+      width: 100%;
+      border: 1px solid #fff;
+  }
+  .owl-theme .owl-nav.disabled + .owl-dots {
+      margin-top: 20px;
+      text-align: left;
+      margin-left: 12%;  
+  }
+  .reservation-section{
+      background: url("../images/Burger-House-7.png");
+      background-size: cover;
+      background-repeat: no-repeat;
+      width: 100%;  
+      height: 500px;
+  }
+  .reservation-section .title{
+      width: 100%;
+      text-align: center;
+  }
+  .reservation-section .title h3{
+      font-size: 26px;
+      line-height: 36px;
+      color: #3d2514;
+      text-transform: uppercase;
+      font-family: 'Bebas Neue', cursive;
+  }
+  .reservation-section .title h2{
+      font-size: 46px;
+      line-height: 56px;
+      font-weight: 700;
+      color: #3d2514;
+      text-transform: uppercase;
+      font-family: 'Bebas Neue', cursive;
+  }
+  .main-form{
+      width: 900px;
+      padding: 50px 60px 40px;
+      margin-left: 16%;
+  }
+  .main-form .form-control{
+      width: 100%;
+      padding: 10px;
+      color: #000;
+      font-size: 14px;
+      font-weight: 600;
+      background-color: transparent;
+      background-clip: padding-box;
+      border: 1px solid #999;
+      text-transform: capitalize;
+  }
+  .main-form .text-right{
+      text-align: left;
+  }
+  .main-form .btn-danger{
+      color: #fff;
+      background:#bf2222;
+      font-size: 16px;
+      font-weight: 600;
+      padding: 10px 129px;
+      text-transform: uppercase;
+      transition: 1s;
+  }
+  .main-form .btn-danger:hover{
+      color: #bf2222;
+      background: #ffc045;
+  }
+  .berger-house-about{
+      width: 100%;
+      padding: 0px 40px 40px 40px;
+      color: #fff;
+  }
+  .berger-house-about .container{
+      background: url("../images/Burger-House-bg-2.png");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center top;
+      width: 100%;  
+  }
+  .berger-house-about .title{
+      width: 100%;
+      padding: 40px 0px;
+      margin-top: 70px;
+      margin-left: 25px;
+  }
+  .berger-house-about .title p{
+      font-size: 14px;
+      line-height: 24px;
+      color: #fff;
+      text-transform: capitalize;
+      font-family: 'Montserrat', sans-serif;
+      margin-top: 30px;
+  }
+  .inner-icon{
+      width: 100%;
+      list-style-type: none;
+  }
+  .berger-house-about .socail-icon{
+      width: 100%;
+      padding: 40px 0px;
+      margin-top: 30%;
+      list-style: none;
+      display: block;
+      margin-right: 10px;
+      text-transform: uppercase;
+  }
+  .berger-house-about .socail-icon .fa{
+      font-size: 28px;
+      line-height: 38px;
+      margin-bottom: 20px;
+      margin: 10px 10px;
+      cursor: pointer;
+      display: inline-block;
+  }
+  .berger-house-about .social-icon li{
+      font-size: 24px;
+      line-height: 34px;
+      color: #444348;
+      background: #fff;
+      margin-bottom: 20px;
+      margin: 10px 10px;
+      text-transform: uppercase;
+      list-style: none;
+  }
+  .footer-section  p{
+      font-size: 12px;
+      color: #999999;
+      margin-bottom: 0px;
+      font-weight: 600;
+      text-transform: uppercase;
+      margin-left: 25px;
+  }
+  .footer-section .social-icon-2{
+      width: 100%;
+      text-align: right;
+  }
+  .footer-section .social-icon-2 .fa{
+      font-size: 18px;
+      color: #fff;
+      margin-bottom: 0px;
+      margin: 0px 10px;
+      transition: 1s;
+      cursor: pointer;
+  }
+  .footer-section .social-icon-2 .fa:hover{
+      color: #008ed6;
+  }
+    
+  }

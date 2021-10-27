@@ -1,0 +1,410 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Montserrat', sans-serif;
+} 
+a, a:hover{
+    text-decoration: none;
+} 
+.header-section{
+    background: url("../images/Burger-House-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    width: 100%;  
+    height: 700px;
+}
+.fixed-top{
+    background: #fff;
+    padding: 20px 0px;
+}
+.main-menu{
+    width: 100%;
+}
+.main-menu .navbar-brand img{
+    width: 100%;
+}
+.main-menu .navbar .bg-light{
+    background: transparent ;
+}
+.main-menu .navbar .navbar-toggler .fa{
+    color: #3d2514;
+    border-color: #3d2514;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #3d2514;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Montserrat', sans-serif;
+    transition: 2s;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #bf2222;
+}
+.banner{
+    width: 100%;
+    padding: 100px 0px;
+    margin-top: 10%;
+    margin-left: 30px;
+}
+.h3-border{
+    border: 3px dashed #3d2514;
+    margin-right: 290px;
+    margin-bottom: 30px;
+}
+.banner h3{
+    font-size: 16px;
+    line-height: 26px;
+    color: #3d2514;  
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 8px 0px;
+    margin-left: 25px;
+    font-family: 'Bebas Neue', cursive;
+}
+.banner h1{
+    font-size: 98px;
+    font-weight: 700;
+    line-height: 58px;
+    color: #3d2514; 
+    text-transform: uppercase;
+    padding: 5px 0px;
+    margin-bottom: 30px;
+    font-family: 'Alfa Slab One', cursive;
+}
+.banner h2{
+    font-size: 56px;
+    line-height: 46px;
+    color: #3d2514;  
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-family: 'Alfa Slab One', cursive;
+}
+.burger-section{
+    width: 100%;
+    padding: 60px 0px;
+}
+.burger-section .card-body {
+    flex: 1 1 auto;
+    padding: 1.25rem;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+.inner{
+    width:  100%;
+    margin-bottom: 15px;
+}
+.burger-section .inner-info{
+    width:  100%;
+    margin-bottom: 15px;
+}
+.inner-info-1{
+    width:  100%;
+    margin-top: 22px;
+}
+.burger-section .card{
+    width: 100%;
+  }
+.card-info{
+    width: 100%;
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    text-align: left;
+}
+.card-info h3{
+    font-size: 22px;
+    line-height: 32px;
+    font-weight: 600;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+}
+.card-info h2{
+    font-size: 36px;
+    line-height: 46px;
+    font-weight: 600;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+}
+.inner-btn{
+    width: 100%;
+    padding: 40px 0px 0px 0px;
+    text-align: center;
+ }
+ .inner-btn .btn-warning{
+    color: #3d2514;
+    background: #ffc045;
+    background-color: #ffc045;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 10px 25px;
+    text-transform: uppercase;
+    transition: 1s;
+    margin: 0px 25px;
+}
+.inner-btn .btn-warning:hover{
+    color: #ffc045;
+    background: #3d2514;
+    border-color: #3d2514;
+}
+.card{
+    border: 0px solid rgba(0,0,0,.125);
+}
+.product-info{
+    width: 100%;
+    padding: 80px 0px;
+    text-align: center;
+}
+.product-info .title{
+    width: 100%;
+}
+.inner-info-3{
+    width:  100%;
+}
+
+.inner-info-3 img{
+    width: 100%;
+    height: 320px;
+}
+.product-info .title h1{
+    font-size: 46px;
+    line-height: 56px;
+    font-weight: 700;
+    color: #3d2514;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+}
+.product-info .title p{
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 200;
+    color: #3d2514;
+    text-transform: capitalize;
+    font-family: 'Montserrat', sans-serif;
+}
+.inner-info-3 .card-body h1{
+    font-size: 36px;
+    line-height: 46px;
+    font-weight: 600;
+    color: #3d2514;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+}
+.inner-btn-2{
+    width: 100%;
+    padding: 0px 0px 0px 0px;
+    text-align: center;
+    margin-bottom: 40px;
+ }
+.inner-btn-2 .btn-danger{
+    color: #fff;
+    background:#bf2222;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 10px 25px;
+    text-transform: uppercase;
+    transition: 1s;
+    margin: 0px 25px;
+    transition: 1s;
+}
+.inner-btn-2 .btn-danger:hover{
+    color: #3d2514;
+    background: #ffc045;
+}
+.event-section{
+    width: 100%;
+    padding: 0px 0px 40px;
+}
+.event-section .title{
+    width: 100%;
+    margin-left: 25%;
+}
+.event-section .title h3{
+    font-size: 26px;
+    line-height: 36px;
+    color: #3d2514;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+}
+.event-section .title h1{
+    font-size: 46px;
+    line-height: 56px;
+    font-weight: 700;
+    color: #3d2514;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+}
+.event-section .title p{
+    font-size: 14px;
+    line-height: 24px;
+    color: #3d2514;
+    text-transform: capitalize;
+    font-family: 'Montserrat', sans-serif;
+}
+.owl-carousel .event-img .img-fluid {
+    max-width: 350px;
+    height: auto;
+    margin-top: 20px;
+}
+.event-section .inner-event{
+    width: 100%;
+    border: 1px solid #fff;
+}
+.owl-theme .owl-nav.disabled + .owl-dots {
+    margin-top: 20px;
+    text-align: left;
+    margin-left: 12%;  
+}
+.reservation-section{
+    background: url("../images/Burger-House-7.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;  
+    height: 500px;
+}
+.reservation-section .title{
+    width: 100%;
+    text-align: center;
+}
+.reservation-section .title h3{
+    font-size: 26px;
+    line-height: 36px;
+    color: #3d2514;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+}
+.reservation-section .title h2{
+    font-size: 46px;
+    line-height: 56px;
+    font-weight: 700;
+    color: #3d2514;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+}
+.main-form{
+    width: 900px;
+    padding: 50px 60px 40px;
+    margin-left: 16%;
+}
+.main-form .form-control{
+    width: 100%;
+    padding: 10px;
+    color: #000;
+    font-size: 14px;
+    font-weight: 600;
+    background-color: transparent;
+    background-clip: padding-box;
+    border: 1px solid #999;
+    text-transform: capitalize;
+}
+.main-form .text-right{
+    text-align: left;
+}
+.main-form .btn-danger{
+    color: #fff;
+    background:#bf2222;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 10px 129px;
+    text-transform: uppercase;
+    transition: 1s;
+}
+.main-form .btn-danger:hover{
+    color: #bf2222;
+    background: #ffc045;
+}
+.berger-house-about{
+    width: 100%;
+    padding: 0px 40px 40px 40px;
+    color: #fff;
+}
+.berger-house-about .container{
+    background: url("../images/Burger-House-bg-2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    width: 100%;  
+}
+.berger-house-about .title{
+    width: 100%;
+    padding: 40px 0px;
+    margin-top: 70px;
+    margin-left: 25px;
+}
+.berger-house-about .title p{
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+    text-transform: capitalize;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 30px;
+}
+.inner-icon{
+    width: 100%;
+    list-style-type: none;
+}
+.berger-house-about .socail-icon{
+    width: 100%;
+    padding: 40px 0px;
+    margin-top: 30%;
+    list-style: none;
+    display: block;
+    margin-right: 10px;
+    text-transform: uppercase;
+}
+.berger-house-about .socail-icon .fa{
+    font-size: 28px;
+    line-height: 38px;
+    margin-bottom: 20px;
+    margin: 10px 10px;
+    cursor: pointer;
+    display: inline-block;
+}
+.berger-house-about .social-icon li{
+    font-size: 24px;
+    line-height: 34px;
+    color: #444348;
+    background: #fff;
+    margin-bottom: 20px;
+    margin: 10px 10px;
+    text-transform: uppercase;
+    list-style: none;
+}
+.footer-section  p{
+    font-size: 12px;
+    color: #999999;
+    margin-bottom: 0px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-left: 25px;
+}
+.footer-section .social-icon-2{
+    width: 100%;
+    text-align: right;
+}
+.footer-section .social-icon-2 .fa{
+    font-size: 18px;
+    color: #fff;
+    margin-bottom: 0px;
+    margin: 0px 10px;
+    transition: 1s;
+    cursor: pointer;
+}
+.footer-section .social-icon-2 .fa:hover{
+    color: #008ed6;
+}
